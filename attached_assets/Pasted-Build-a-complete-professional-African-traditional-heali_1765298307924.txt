@@ -1,0 +1,401 @@
+Build a complete, professional African traditional healing website called Cultural Powers with the domain culturalpowers.co.za.
+The site must help people with cultural, ancestral and spiritual problems.
+Make the design modern, dark-themed (black + gold), animated, mobile-first and extremely user-friendly.
+
+Below is the full breakdown of every feature and how it must work. Follow it exactly.
+
+1. HOME PAGE
+
+Create a beautiful homepage with:
+
+A hero banner showing African spiritual energy animation
+
+A headline: “Cultural Powers – Traditional Healing, Protection & Ancestral Guidance”
+
+A short intro explaining that the healer helps with bad luck, curses, cleansing, voodoo removal, spiritual protection, blessings and ancestral alignment
+
+Quick buttons: Book Consultation, WhatsApp Chat, Call Now
+
+Display consultation fee clearly
+
+Show operating hours
+
+Show “24/7 Support Available”
+
+Add testimonials section
+
+Add categories list for the services
+
+How it works:
+When a user clicks “Book Consultation,” they go to the booking page.
+When they click “Chat on WhatsApp,” it opens the healer’s WhatsApp number.
+When they click “Call Now,” it calls the phone number.
+
+2. ABOUT THE HEALER PAGE
+
+Include:
+
+Full biography of the healer (Chief Tanga Azan Wani or the name specified)
+
+Background of cultural calling
+
+Experience
+
+Values
+
+Spiritual gifts
+
+Regions served
+
+A photo + African cultural design
+
+How it works:
+Static page the admin can edit anytime in the admin panel.
+
+3. SERVICES SECTION (200+ pages)
+
+Create a Services Index Page listing all services.
+Then generate 200+ individual service pages, each with its own content.
+
+Each service page must have:
+
+Service title
+
+Detailed explanation
+
+Symptoms/signs
+
+Benefits
+
+Step-by-step process
+
+Results timeline
+
+Price in Rands
+
+Booking button
+
+FAQs
+
+WhatsApp chat button
+
+Testimonies
+
+Related services
+
+How it works:
+Each service page is automatically linked to the booking system so the user can select the service and schedule a time.
+
+4. SHOP PAGE
+
+Sell traditional African items.
+
+Include:
+
+Clear product categories
+
+Product pictures
+
+Product descriptions
+
+Price in Rands
+
+“Add to Cart”
+
+“Buy Now”
+
+Delivery info
+
+Secure checkout
+
+Products:
+
+Herbs
+
+Cleansing kits
+
+Bones
+
+Candles
+
+Traditional cloths
+
+Protection items
+
+Beads
+
+Oils
+
+Charms
+
+How it works:
+When a user adds a product to cart, the cart updates dynamically.
+Checkout supports PayFast and EFT.
+
+5. CONSULTATION FEES
+
+Display a pricing structure:
+
+Normal Consultation: R350
+
+Deep Consultation: R500
+
+Emergency 1-Hour Response: R800
+
+Home Visit: R1500
+
+Full Cleansing Ceremony: R700 – R3000
+
+Special Deliverance: R5000
+
+Love Healing: R400 – R2500
+
+Financial Luck Unlock: R500 – R2000
+
+How it works:
+Prices are editable by admin.
+Users see prices on every service page and during booking.
+
+6. BOOKING SYSTEM
+
+The booking page must include:
+
+Name
+
+Phone
+
+WhatsApp number
+
+Email
+
+Select service
+
+Select date and time
+
+Payment option
+
+Special notes
+
+After booking:
+
+Automatic email confirmation
+
+Automatic SMS confirmation
+
+Admin receives booking notification
+
+How it works:
+All bookings go into the admin dashboard for management.
+
+7. PAYMENT SYSTEM
+
+Integrate:
+
+PayFast
+
+Yoco
+
+EFT
+
+Instant EFT
+
+Mobile Money (MTN & Airtel for cross-border clients)
+
+How it works:
+Whenever the user pays, payment status updates automatically in the admin dashboard.
+
+8. LIVE SUPPORT
+
+Add:
+
+24/7 live chat system
+
+WhatsApp button
+
+Live “Online Agent” window
+
+“Call Now” button
+
+Support details:
+
+Phone: +27 65 000 9090
+
+WhatsApp: +27 65 000 9090
+
+Email: help@culturalpowers.co.za
+
+How it works:
+Live chat sends messages to the admin dashboard so support can reply instantly.
+
+9. ADMIN DASHBOARD
+
+Admin must be able to:
+
+Add/edit/delete services
+
+Create new pages
+
+Edit content
+
+Upload images
+
+Update pricing
+
+Manage bookings
+
+Manage agent chats
+
+View customers
+
+Manage shop + products
+
+See analytics
+
+Manage orders
+
+Send bulk emails
+
+Manage blog articles
+
+How it works:
+Admin logs in with secure credentials + 2FA.
+
+10. BLOG
+
+Create a blog with at least 50 articles about:
+
+Ancestral healing
+
+African traditional practices
+
+Dream interpretations
+
+Cultural wisdom
+
+Cleansing
+
+Protection
+
+Warnings about bad energy
+
+Spiritual growth
+
+How it works:
+Users can read articles and share.
+Admin can publish new ones anytime.
+
+11. USER ACCOUNTS
+
+Users can:
+
+Create accounts
+
+Save bookings
+
+Track orders
+
+Edit profile
+
+See past consultations
+
+Save favorite services
+
+Subscribe to newsletter
+
+Security:
+
+Email verification
+
+Password reset
+
+OTP login
+
+12. SECURITY
+
+Add:
+
+SSL
+
+Cloudflare security
+
+Anti-spam protection
+
+Database encryption
+
+Admin login protection
+
+Firewall
+
+Backup system
+
+13. BRANDING
+
+Brand Name: Cultural Powers
+Colors: Black, Gold, Deep Green
+Generate:
+
+Logo
+
+Favicon
+
+Custom icons
+
+African pattern backgrounds
+
+14. SEO
+
+Optimize all pages for:
+
+African spiritual healing South Africa
+
+Bad luck removal
+
+Voodoo removal
+
+Traditional healer
+
+Back to sender
+
+Cleansing services
+
+Cultural healing
+
+Include:
+
+Meta tags
+
+Schema
+
+Alt texts
+
+Keywords
+
+Fast loading
+
+15. DEPLOYMENT
+
+Deliver:
+
+Frontend
+
+Backend
+
+Admin panel
+
+Database
+
+API
+
+Hosting setup
+
+Payment integration
+
+Live chat
+
+All pages pre-generated
+
+Mobile friendly design
+
+Testing and debugging
+
+Deployment to production
